@@ -1,0 +1,15 @@
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/bin/Debug/net5.0/EmailService.deps.json
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/bin/Debug/net5.0/EmailService.dll
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/bin/Debug/net5.0/ref/EmailService.dll
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/bin/Debug/net5.0/EmailService.pdb
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/EmailService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/EmailService.AssemblyInfoInputs.cache
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/EmailService.AssemblyInfo.cs
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/EmailService.csproj.CoreCompileInputs.cache
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/staticwebassets/EmailService.StaticWebAssets.Manifest.cache
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/staticwebassets/EmailService.StaticWebAssets.xml
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/scopedcss/bundle/EmailService.styles.css
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/EmailService.RazorTargetAssemblyInfo.cache
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/EmailService.dll
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/ref/EmailService.dll
+/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/Debug/net5.0/EmailService.pdb

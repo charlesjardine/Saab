@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONKCqFgNmfVP5wRN759rVCvsXfSl619lGIhdg9IMJqk361JGqgwKM4FieJOKpWoNzEvMM+v7cyXcgJxwG888hw==",
+  "dgSpecHash": "Sg53hj/D7L3SBfh5aSaxkvbPSu/4OTWoMdwO2u0rxxRV7bohCtbaN+eZAviTfSmRlomvMunDJrUFnonoAy2KFA==",
   "success": true,
-  "projectFilePath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj",
+  "projectFilePath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

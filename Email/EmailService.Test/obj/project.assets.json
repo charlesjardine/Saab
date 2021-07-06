@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETCoreApp,Version=v3.1": {
       "Microsoft.CodeCoverage/16.9.1": {
         "type": "package",
         "compile": {
@@ -1250,7 +1250,7 @@
       },
       "EmailService/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/EmailService.dll": {}
         },
@@ -4865,7 +4865,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETCoreApp,Version=v3.1": [
       "EmailService >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.1",
       "NUnit >= 3.13.1",
@@ -4879,11 +4879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService.Test/EmailService.Test.csproj",
+      "projectUniqueName": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService.Test/EmailService.Test.csproj",
       "projectName": "EmailService.Test",
-      "projectPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService.Test/EmailService.Test.csproj",
+      "projectPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService.Test/EmailService.Test.csproj",
       "packagesPath": "/Users/charlesjardine/.nuget/packages/",
-      "outputPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService.Test/obj/",
+      "outputPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService.Test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4892,7 +4892,7 @@
         "/Users/charlesjardine/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "/Users/charlesjardine/Projects/ISSB/nuget": {},
@@ -4900,11 +4900,11 @@
         "https://nuget.devexpress.com/2Q7L69VZjvBv1BzoRFG3YscfY8qT4vU9mbXb25jMf6QV4RdBg2/api": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj": {
-              "projectPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj"
+            "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj": {
+              "projectPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj"
             }
           }
         }
@@ -4916,8 +4916,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",

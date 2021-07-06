@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj": {}
+    "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj": {}
   },
   "projects": {
-    "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj": {
+    "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj",
+        "projectUniqueName": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj",
         "projectName": "EmailService",
-        "projectPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj",
+        "projectPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj",
         "packagesPath": "/Users/charlesjardine/.nuget/packages/",
-        "outputPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/obj/",
+        "outputPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -20,7 +20,7 @@
           "/Users/charlesjardine/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "/Users/charlesjardine/Projects/ISSB/nuget": {},
@@ -28,8 +28,8 @@
           "https://nuget.devexpress.com/2Q7L69VZjvBv1BzoRFG3YscfY8qT4vU9mbXb25jMf6QV4RdBg2/api": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

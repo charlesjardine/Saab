@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{009DACFF-7BBA-4A46-95CE-4F7E2707C5ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicketManagementSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets">
+    <Files>
+      <File FileName="TicketManagementSystem/Program.cs" Line="16" Column="48" />
+      <File FileName="TicketManagementSystem/TicketService.cs" />
+      <File FileName="../../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="1733" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicketManagementSystem" expanded="True">
+            <Node name="Email" expanded="True">
+              <Node name="EmailService.Test" selected="True" />
+            </Node>
+            <Node name="TicketManagementSystem" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

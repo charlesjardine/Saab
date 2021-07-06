@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2L3d/sUl+P+1iltmKOGCFU3JleP/28P+vUo2uO3NYHaRhQqGMrTRMvv0r/KI3ip341FsXyhnOAYIDN8GpAxYgg==",
+  "dgSpecHash": "+QMbYFoRAHXJfNLIAfo6W5/4msV05B2o1CJ/i4LNfhuAUV+Yk0OEFxQMudXpSMF5v3pvWMGiklTTDh7DizkTlg==",
   "success": true,
-  "projectFilePath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService.Test/EmailService.Test.csproj",
+  "projectFilePath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService.Test/EmailService.Test.csproj",
   "expectedPackageFiles": [
     "/Users/charlesjardine/.nuget/packages/microsoft.codecoverage/16.9.1/microsoft.codecoverage.16.9.1.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

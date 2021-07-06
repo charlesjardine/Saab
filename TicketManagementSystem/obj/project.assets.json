@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETCoreApp,Version=v3.1": {
       "Microsoft.NETCore.Platforms/5.0.0": {
         "type": "package",
         "compile": {
@@ -187,10 +187,10 @@
           "System.Windows.Extensions": "5.0.0"
         },
         "compile": {
-          "ref/net5.0/System.Security.Permissions.dll": {}
+          "ref/netcoreapp3.0/System.Security.Permissions.dll": {}
         },
         "runtime": {
-          "lib/net5.0/System.Security.Permissions.dll": {}
+          "lib/netcoreapp3.0/System.Security.Permissions.dll": {}
         }
       },
       "System.Security.Principal.Windows/5.0.0": {
@@ -232,7 +232,7 @@
       },
       "EmailService/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/EmailService.dll": {}
         },
@@ -760,7 +760,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETCoreApp,Version=v3.1": [
       "EmailService >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 5.0.0",
       "System.Data.SqlClient >= 4.8.2"
@@ -773,11 +773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/TicketManagementSystem/TicketManagementSystem.csproj",
+      "projectUniqueName": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/TicketManagementSystem/TicketManagementSystem.csproj",
       "projectName": "TicketManagementSystem",
-      "projectPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/TicketManagementSystem/TicketManagementSystem.csproj",
+      "projectPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/TicketManagementSystem/TicketManagementSystem.csproj",
       "packagesPath": "/Users/charlesjardine/.nuget/packages/",
-      "outputPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/TicketManagementSystem/obj/",
+      "outputPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/TicketManagementSystem/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -786,7 +786,7 @@
         "/Users/charlesjardine/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "/Users/charlesjardine/Projects/ISSB/nuget": {},
@@ -794,11 +794,11 @@
         "https://nuget.devexpress.com/2Q7L69VZjvBv1BzoRFG3YscfY8qT4vU9mbXb25jMf6QV4RdBg2/api": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj": {
-              "projectPath": "/Users/charlesjardine/Desktop/Saab/interview-test/TicketManagementSystem/Email/EmailService/EmailService.csproj"
+            "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj": {
+              "projectPath": "/Users/charlesjardine/Projects/TicketManagementSystem/Saab/Email/EmailService/EmailService.csproj"
             }
           }
         }
@@ -810,8 +810,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.Configuration.ConfigurationManager": {
             "target": "Package",
