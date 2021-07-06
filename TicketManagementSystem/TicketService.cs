@@ -170,6 +170,14 @@ namespace TicketManagementSystem
             }
         }
 
+        /// <summary>
+        /// Sets the Ticket Priority
+        /// </summary>
+        /// <param name="t"></param>
+        /// <param name="p"></param>
+        /// <param name="assignedTo"></param>
+        /// <param name="d"></param>
+        /// <returns></returns>
         private Priority SetPriority(string t,Priority p,string assignedTo,DateTime d)
         {
             var priorityRaised = false;
